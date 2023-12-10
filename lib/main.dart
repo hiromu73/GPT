@@ -36,7 +36,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   String? _apiText = '';
   List<Map<String, String>> apiTextList = [];
-  final String? _apiKey = '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';
+  final String? _apiKey = '';
   String serachText = '';
   List<String> serachTextList = [];
 
